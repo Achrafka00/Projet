@@ -60,10 +60,11 @@
 
 ###
 
-<h3 align="left">## 🔥 My Stats :<br><br>
-### 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achrafka00&show_icons=true&theme=radical)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafka00&layout=compact&theme=radical)<br><br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achrafka00&theme=radical)</h3>
+<h3>🔥 My Stats :</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achrafka00&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafka00&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achrafka00&theme=radical" height="150" alt="GitHub Streak"/>
+</div>
 ###
